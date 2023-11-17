@@ -3,7 +3,7 @@
 
 <br/>  
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/hhhjs0133@naver.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhhjs0133@naver.com)](https://solved.ac/hhhjs0133@naver.com/)
 
 
 ## My Skill Set
