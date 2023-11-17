@@ -36,7 +36,7 @@
 
 
 ## Open Source Contribution
-- [FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection Issue/PR](https://https://github.com/SamsungLabs/fcaf3d/pull/46)
+- [FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection Issue/PR](https://github.com/SamsungLabs/fcaf3d/pull/46)
   - pcd_demo.py에서 Bounding Box 생성 오류 수정
 
 
